@@ -8,3 +8,7 @@ I'm a seasoned software development professional with over 20 years of experienc
 -   Communication: Effective communication of complex technical concepts to both technical and non-technical audiences.
 
 I'm passionate about problem-solving, and my mantra is that the most complex problems are often solved by the simplest, most elegant solutions.
+
+## Contact
+
+[LinkedIn Profile](www.linkedin.com/in/priya-jetley-3748769)
